@@ -1,2 +1,4 @@
 # shoppingmallSQL
 shoppingmallSQL
+
+# DB Design
